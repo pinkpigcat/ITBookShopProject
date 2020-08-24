@@ -101,7 +101,7 @@ public class CheckEmailController extends HttpServlet {
 	    public MyAuthentication(){
 	         
 	        String id = "forgiving3@naver.com";       
-	        String pw = "leaveme12!!";         
+	        String pw = "leaveme12!!^^";         
 	 
 	        // ID와 비밀번호를 입력한다.
 	        pa = new PasswordAuthentication(id, pw);
